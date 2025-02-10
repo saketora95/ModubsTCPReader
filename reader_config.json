@@ -1,0 +1,20 @@
+{
+    "host": "192.168.25.168",
+    "port": 502,
+    "unit_id": 1,
+    "target": {
+        "holding_register": {
+            "Produced Number": {
+                "address": 412,
+                "length": 2
+            },
+            "Target Number": {
+                "address": 416,
+                "length": 2
+            }
+        },
+        "coil": {
+            "Production Status": 2050
+        }
+    }
+}
